@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1efbe766-f6ef-415b-b0d7-2f2a701913ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/javaassessment/src/main/java/com/singtel/assessment/ButterFly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaassessment/src/main/java/com/singtel/assessment/Insect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaassessment/src/main/java/com/singtel/assessment/Catterpillar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -75,7 +74,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javaassessment/src/main/java/com/singtel/assessment/ButterFly.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -85,28 +84,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaassessment/src/main/java/com/singtel/assessment/IFlyer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javaassessment/src/main/java/com/singtel/assessment/Catterpillar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javaassessment/src/main/java/com/singtel/assessment/Mammal.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javaassessment/src/main/java/com/singtel/assessment/IWalker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javaassessment/src/main/java/com/singtel/assessment/ISwimmer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -159,6 +158,7 @@
         <option value="$PROJECT_DIR$/javaassessment/src/main/java/com/singtel/assessment/Dolphin.java" />
         <option value="$PROJECT_DIR$/javaassessment/src/main/java/com/singtel/assessment/Insect.java" />
         <option value="$PROJECT_DIR$/javaassessment/src/main/java/com/singtel/assessment/ButterFly.java" />
+        <option value="$PROJECT_DIR$/javaassessment/src/main/java/com/singtel/assessment/Catterpillar.java" />
       </list>
     </option>
   </component>
@@ -227,7 +227,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550657884514" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550658079023" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
   </component>
   <component name="RunDashboard">
@@ -347,13 +347,6 @@
             <element signature="e#150#351#0" expanded="true" />
             <element signature="e#350#351#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaassessment/src/main/java/com/singtel/assessment/IFlyer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -478,6 +471,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaassessment/src/main/java/com/singtel/assessment/IFlyer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaassessment/src/main/java/com/singtel/assessment/Catterpillar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
